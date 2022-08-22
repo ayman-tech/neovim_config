@@ -1,0 +1,34 @@
+snippet from "from" b
+FROM $1
+
+
+endsnippet
+
+snippet work "working dir" b
+WORKDIR /app
+
+
+endsnippet
+
+snippet copy "copy" b
+COPY . /app
+
+
+endsnippet
+
+snippet run "run" b
+RUN $1
+
+
+endsnippet
+
+snippet expo "expose" b
+EXPOSE $1
+
+
+endsnippet
+
+snippet cmd "command" b
+CMD ["$1", "$2"]
+
+endsnippet
