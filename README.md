@@ -5,6 +5,8 @@ Make your Neovim look like VScode.
 
 Unleash the power of Neovim by using it in this configuration.
 
+This a fork of josethz00 repository modified by Ayman Sayed.
+
 
 
 ## Installation
@@ -52,3 +54,10 @@ If some icons arent displayed correctly, please check if terminal font is a nerd
 If not, download any of the nerdfonts from the link:
 https://github.com/ryanoasis/nerd-fonts#patched-fonts
 
+
+## Acknowledgements
+
+ - José Thomaz - (https://github.com/josethz00)
+ - Ayman Sayed - (https://github.com/ayman-tech)
+ - Junegunn Choi - (https://github.com/junegunn)
+ - Neovim Team - (https://github.com/neovim/neovim)
